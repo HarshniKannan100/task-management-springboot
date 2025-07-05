@@ -9,7 +9,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/tasks")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://harshni-task-manager.netlify.app/")
 
 
 public class TaskController {
